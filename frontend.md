@@ -1,6 +1,7 @@
 # Учебники
 
 - [Самоучитель HTML](https://webref.ru/course/html-tutorial) и [самоучитель CSS](https://webref.ru/course/css-tutorial) от WebRef.
+- [Изучение в игровой форме HTML, CSS, JavaScript](https://htmlacademy.ru/)
 - [Современный учебник JavaScript](https://learn.javascript.ru/) - самый попурный учебник по JavaScript. Постоянно обновляется и дополняется. Помимо теории к каждой (или почти к каждой) главе прилагаются задачи и их решение.
 
 # React
